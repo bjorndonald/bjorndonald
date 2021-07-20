@@ -2,12 +2,12 @@
 
 # Hi 👋 !
 
-## I'm Asabeneh Yeatayeh
-<small>A place to mine Gold and Diamond! </small>
+## I'm Bjorn-Donald Bassey
+
 
 <div>
-<a href="https://www.linkedin.com/in/asabeneh" target="_blank"><img src='./images/linkedin.svg' alt='LinkedIn' width="8%"></a>
-<a href="https://twitter.com/Asabeneh" target="_blank"><img src='./images/twitter.svg' alt='Twitter' width="3%" title='@Asabeneh'></a>
+<a href="linkedin.com/in/bjorn-donald-bassey-868094167" target="_blank"><img src='./images/linkedin.svg' alt='LinkedIn' width="8%"></a>
+<a href="https://twitter.com/JD_Bassey" target="_blank"><img src='./images/twitter.svg' alt='Twitter' width="3%" title='@JD_Bassey'></a>
 
 </div>
 
