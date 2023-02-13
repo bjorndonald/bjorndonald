@@ -11,7 +11,7 @@
 
 </div>
 
-I am a frontend and mobile developer.
+I am a frontend and mobile developer. I currently work at Traders Eco as a web developer.
 Technologies which I teach and use:
 
 ### Frontend Technologies
