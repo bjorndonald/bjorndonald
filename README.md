@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-# Hi 👋 !
-
 ## I'm Bjorn-Donald Bassey
-
 
 <div>
 <a href="linkedin.com/in/bjorn-donald-bassey-868094167" target="_blank"><img src='./images/linkedin.svg' alt='LinkedIn' width="8%"></a>
