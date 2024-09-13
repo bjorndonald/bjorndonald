@@ -1,73 +1,72 @@
-### Hi there 👋
+<code>"All big things come from small beginnings. - James Clear"</code>
 
-## I'm Bjorn-Donald Bassey
+<h3 href="#about me"> About Me </h3>
+<p>Hello 👋, I'm Bjorn. I am a Full Stack Developer / Aspiring indie hacker with over 8 years of experience working in the field of Web and mobile development. I build web solutions to business problems. I develop and improve web platforms to improve businesses.</p>
+<p>🔥 My passion is finding solutions to complex problems and building software that people will love.</p>
+<p>✨ I am also a crypto, AI tech enthusiast.</p>
 
-<div>
-<a href="linkedin.com/in/bjorn-donald-bassey-868094167" target="_blank"><img src='./images/linkedin.svg' alt='LinkedIn' width="8%"></a>
-<a href="https://twitter.com/JD_Bassey" target="_blank"><img src='./images/twitter.svg' alt='Twitter' width="3%" title='@JD_Bassey'></a>
+<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/1GEATImIxEXVR79Dhk" style="left-margin: 50px;">
+<hr>
+<h3 href="#current-work"> Current work, projects and future collaborations. </h3>
 
-</div>
+🔭 I’m currently working on a platform with Retrieval-Augmented Generation (RAG) that targets forgetful people.
+: I’m currently working on **AWS certifications
+🌱 I am learning **about IOS development, ML training, Rust, Solidity.\*\*
 
-I am a frontend and mobile developer. I currently work at Traders Eco as a web developer.
-Technologies which I teach and use:
+👨‍💻 All of my projects are available <a href="https://github.com/bjorndonald?tab=repositories"> here </a>
 
-### Frontend Technologies
+👯 I’m looking to collaborate on **Nigerian Language Translators, AI for productivity, Fun SAAS projects**
 
-<div>
-  <img src ="./images/html-5.svg" alt="HTML5 logo" width="4%" title='HTML5'/>
-  <img src ="./images/css-3.svg" alt="CSS3 logo" width="4%" title='CSS3'/>
-  <img src ="./images/bootstrap.svg" alt="Bootstrap logo" width="6%" title='Bootstrap'/>
-  <img src ="./images/sass.svg" alt="Sass logo" width="6%" title='Sass'/>
-  <img src ="./images/javascript.svg" alt="JavaScript logo" width="6%" title='JavaScript'/>
-  <img src ="./images/es6.svg" alt="ES6 logo" width="6%" title='ES6'/>
-  <img src ="./images/react.svg" alt="react logo" width="6%" title='React'/>
-  <img src ="./images/redux.svg" alt="redux logo" width="6%" title='Redux'/>
-<div> 
+🐛 Fun fact **I love to fix bugs!!**
+
+<hr>
+
+<details>
+<summary><h3 align="left">Languages, Tools, Frameworks:</h3></summary>
+<p align="left">   
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="./images/javascript.svg" alt="javascript" width="40" height="40"/> </a> 
   
- ### Mobile Technologies
- <div>
-  <img src ="./images/reactnative.svg" alt="React Native logo" width="4%" title='React Native'/>
-  <img src ="./images/java.svg" alt="JAVA logo" width="4%" title='JAVA'/>
-   <img src ="./images/android.svg" alt="Android logo" width="4%" title='Android'/>
-<div> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*IYEvbY1IRNoXRTuAIWpERQ.png" alt="sql" width="40" height="40"/> </a>
+  
+  <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*i2skbfmDsHayHhqPfwt6pA.png" alt="golang" width="40" height="40"/> </a> 
+  
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="./images/react.svg" alt="react" width="40" height="40"/> </a>
 
-### Backend Technologies
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="./images/reactnative.svg" alt="react-native" width="40" height="40"/> </a>
 
-<div>
-  <img src ="./images/nodejs.svg" alt="Node logo" width="8%" title='Nodejs'/>
-  <img src ="./images/express.svg" alt="express logo" width="8%" title='Express'/>
-  <img src ="./images/mysql.svg" alt="mysql logo" width="8%" title='MYSQL'/>
-  <img src ="./images/sqlite.svg" alt="sqlite logo" width="8%" title='sqlite'/>
-  <img src ="./images/python.svg" alt="Python logo" width="8%" title='Python'/>
-  <img src ="./images/django.svg" alt="Django logo" width="8%" title='Django'/>
-</div>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="./images/redux.svg" alt="redux" width="40" height="40"/> </a>
 
-### Tools
+<a href="https://tailwindui.com/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*lnUD4nSuOkNuRhAymN7GPA.png" alt="tailwind" width="40" height="40"/> </a>
 
-<div>
-  <img src ="./images/figma.svg" alt="Figma logo" width="8%" title='Figma'/>
-  <img src ="./images/visual-studio-code.svg" alt="VS Code logo" width="8%" title='Visual Studio Code'/>
-  <img src ="./images/git.svg" alt="Git logo" width="8%" title='Git'/>
-  <img src ="./images/eslint.svg" alt="ESLint logo" width="8%" title='ESLint'/>
-  <img src ="./images/webpack.svg" alt="Webpack logo" width="8%" title='Webpack'/>
-  <img src ="./images/nodemon.svg" alt="Nodemon logo" width="8%" title='Nodemon'/> 
-</div>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 
----
-<small> _I am a lifelong learner and I love teaching and inspiring people_. </small>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 
+</details>
 
-<!--
-**bjorndonald/bjorndonald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+| My top technologies      | ⚫️ My top interests ⚫️   |
+| ------------------------ | -------------------------- |
+| • Typescript, Next.js    | • Product devlopment       |
+| • SQL, PostgresSQL       | • Online Systems           |
+| • CSS, TailwindCSS, SCSS | • Language Recognition     |
+| • AWS                    | • Translator Systems       |
+| • Docker, Gin, Express   | • AI Systems               |
+| • Javascript             | • DevOps                   |
+|                          | • Game Design and Graphics |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+<p></p>
+<strong><code>💬 Do you need a web or mobile solution to your business problem or want to collaborate software idea? </code></strong>
+<p></p>
+<h4 align="left">Connect with me:</h4>
+<p align="left">
+<a href="https://twitter.com/6lackbjorn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="6lackbjornd" height="30" width="40" /></a>
+<a href="mailto:bjorndonaldb@gmail.com?subject=%5BFrom%20GitHub%5D%20ML%20Collaborations"><img alt="gmail" width="40px" src="https://img.icons8.com/color/48/000000/gmail.png" align="left" style="max-width: 100%;" height="30></a>
+<a href="https://www.linkedin.com/in/bjo rn-donald-bassey/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jeffreyotoibhi/" height="30" width="40" /></a>
+<a href="https://bjorncode.dev" style="font-size:30px" target="blank">
+🌐 
+</a>
+</p>
