@@ -9,8 +9,8 @@
 <hr>
 <h3 href="#current-work"> Current work, projects and future collaborations. </h3>
 
-🔭 I’m currently working on a platform with Retrieval-Augmented Generation (RAG) that targets forgetful people.
-: I’m currently working on **AWS certifications
+🔭 I’m currently working on a platform with Retrieval-Augmented Generation (RAG) that targets forgetful people.<br>
+: I’m currently working on **AWS certifications<br>
 🌱 I am learning **about IOS development, ML training, Rust, Solidity.\*\*
 
 👨‍💻 All of my projects are available <a href="https://github.com/bjorndonald?tab=repositories"> here </a>
