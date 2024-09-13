@@ -5,7 +5,7 @@
 <p>🔥 My passion is finding solutions to complex problems and building software that people will love.</p>
 <p>✨ I am also a crypto, AI tech enthusiast.</p>
 
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDFjangybmM3aWkzcXB4NXZxODUxa3E2bXJmbWUzbWZ1YnpjOWd5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1GEATImIxEXVR79Dhk/giphy.gif" style="left-margin: 50px;">
+<img align="right" alt="Coding" style="width: 100%; height: auto;" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDFjangybmM3aWkzcXB4NXZxODUxa3E2bXJmbWUzbWZ1YnpjOWd5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1GEATImIxEXVR79Dhk/giphy.gif" style="left-margin: 50px;">
 <hr>
 <h3 href="#current-work"> Current work, projects and future collaborations. </h3>
 
